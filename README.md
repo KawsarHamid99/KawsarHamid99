@@ -15,7 +15,7 @@
 
 ## About me 
 
-:heart: Programming | :black_heart: Praying | :blue_heart: Traveling
+:heart: Programming | :black_heart: Playing | :blue_heart: Traveling
 - 🔭 I’m currently working on Web Projects
 - 🌱 I’m currently using Javascript, Python, Django, Django REST framework,Docker. 
 - 💬 Ask me about anything tech related, I am happy to help
