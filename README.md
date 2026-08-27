@@ -101,19 +101,6 @@ I came to AI from backend engineering, and that shapes how I build. My agents ru
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KawsarHamid99&show_icons=true&hide_border=true&theme=vision-friendly-dark" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawsarHamid99&layout=compact&langs_count=8&hide_border=true&theme=vision-friendly-dark" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KawsarHamid99&theme=react&hide_border=true" alt="Activity graph" />
-</p>
-
----
-
 <p align="center">
   <i>Open to AI/ML engineering roles — on-site, hybrid, or remote.</i><br>
   <a href="mailto:kawsarhamid7225@gmail.com">kawsarhamid7225@gmail.com</a>
